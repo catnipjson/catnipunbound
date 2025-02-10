@@ -1,0 +1,13 @@
+{
+    "name": "Vanta",
+    "id": "catnip.vanta",
+    "type": "theme",
+    "main": "bundle.json",
+    "description": "desc",
+    "authors": [
+        {
+            "name": "catnip.json",
+            "id": "980160393093730395"
+        }
+    ]
+}
