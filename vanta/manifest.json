@@ -2,8 +2,8 @@
     "name": "Vanta",
     "id": "catnip.vanta",
     "type": "theme",
-    "main": "bundle.json",
-    "description": "desc",
+    "main": "https://raw.githubusercontent.com/catnipjson/catnipunbound/refs/heads/main/vanta/bundle.json",
+    "description": "Light has vanished.",
     "authors": [
         {
             "name": "catnip.json",
